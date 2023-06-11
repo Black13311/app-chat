@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "114858610613",
+    "project_id": "mhistile2app",
+    "storage_bucket": "mhistile2app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114858610613:android:1100d54fd220e9448fd3fc",
+        "android_client_info": {
+          "package_name": "com.example.whistile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114858610613-gt92tf7rjrht60cs62r6fsk649du6v30.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8Kxufk528oFz0Xn9WOASA3PGsejJb4wA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114858610613-gt92tf7rjrht60cs62r6fsk649du6v30.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WHISTILE</string>
+    <string name="we_will_send_you_an_one_time_otp_on_this_give_mobile_number">We will send you an one time otp on this give mobile number</string>
+    <string name="enter_mobile_number">Enter Mobile number</string>
+    <string name="otp_verfication">OTP Verfication</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
